@@ -5,7 +5,7 @@ What is your follower distance to someone famous? Check it with this [Julia](htt
 ```
 julia 6deg.jl <your oauth api token> <source user login> <target user login>
 ```
-You need the DataStructures.jl, JSON.jl and HTTP.jl paackages. Install them by running `julia`, pressing `]` and entering `add DataStructures JSON HTTP`.
+You need the DataStructures.jl, JSON.jl and HTTP.jl packages. Install them by running `julia`, pressing `]` and entering `add DataStructures JSON HTTP`.
 
 ### Creating an API token
 See the [guide](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) in the GitHub documentation.
